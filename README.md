@@ -1,11 +1,11 @@
 # Superstore Sales Analysis
 ![Superstore Sales Analysis](https://github.com/DigiAIWorld/Superstore-Sales-Analysis/assets/43418706/78db5f46-ab5a-4e10-bffa-51b7eaf3c6dc)
 
-Identifying the patterns in our products, regions, categories, and customer segments for efficiency and profit optimization with SQL.
+Identifying the patterns in our products, regions, categories, and customer segments for efficiency and profit optimization with MySQL.
 
 With the constant advancement of technology and innovation, having clear-cut databases and possessing departments to breathe life into interpreting them will set you in the top realm of efficiency. Execution is important but we need great inputs to yield even better outputs. There is a necessity to catch up with the growing demand and fierce competition in the market. That is why we need to leverage insights to provide more value to the customer as value is the key to everything.
 
-Our analysis in question will be carried out with Excel, SQL, and finally Tableau. Excel will serve as the first repository for our data, SQL will give meaning to our data and Tableau will give a clear face to our data.
+Our analysis in question will be carried out with Excel, MySQL, and finally Tableau. Excel will serve as the first repository for our data, MySQL will give meaning to our data and Tableau will give a clear face to our data.
 
 ## With everything that was covered, here are our conclusions and future recommendations for the success of our Superstore:
 
