@@ -7,9 +7,9 @@ With the constant advancement of technology and innovation, having clear-cut dat
 
 Our analysis in question will be carried out with Excel, SQL, and finally Tableau. Excel will serve as the first repository for our data, SQL will give meaning to our data and Tableau will give a clear face to our data.
 
-With everything that was covered, here are our conclusions and future recommendations for the success of our Superstore:
+## With everything that was covered, here are our conclusions and future recommendations for the success of our Superstore:
 
- * Our profits got progressively better. Our sales too even with a short halt in 2015. We should keep the pace up on that aspect.
+* Our profits got progressively better. Our sales too even with a short halt in 2015. We should keep the pace up on that aspect.
    
 * Our most profitable quarter all year round was Q4. To maximize even more profits, we must make sure to have enough stock and push our marketing and customer service to make the most out of the October — December festive period.
 
