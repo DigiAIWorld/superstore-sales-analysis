@@ -36,5 +36,10 @@ With everything that was covered, here are our conclusions and future recommenda
 * Out of the 3 segments, The consumer segment brings in the most profit followed by the Corporate and then the Home office. We must give more importance to the consumer segment even if all the 3 are profitable.
   
 * Finally, for our clientele, we have 793 customers total, and we have the most customers in California, New York, and Texas. The case of Texas is pretty ironic since it is also the state that losses us the most money. So we must take a critical decision about Texas first as we absolutely can’t break through now. California and New York are pretty obvious, we have to be outstanding and be the best of what there is to offer in our respective niche.
+--------
+
+  ### Author: Lakshmi Kant
+* Linkedin: https://www.linkedin.com/in/digiaiworld/
+* Portfolio Website: https://digiaiworld.netlify.app/
 
 
