@@ -39,7 +39,7 @@ Our analysis in question will be carried out with Excel, MySQL, and finally Tabl
 --------
 
   ### Author: Lakshmi Kant
-* Linkedin: https://www.linkedin.com/in/digiaiworld/
-* Portfolio Website: https://digiaiworld.netlify.app/
+* Linkedin: https://www.linkedin.com/in/kant-ai/
+* Portfolio Website: https://genrix.netlify.app/
 
 
