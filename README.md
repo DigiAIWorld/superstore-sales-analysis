@@ -3,9 +3,9 @@
 
 Identifying the patterns in our products, regions, categories, and customer segments for efficiency and profit optimization with MySQL.
 
-With the constant advancement of technology and innovation, having clear-cut databases and possessing departments to breathe life into interpreting them will set you in the top realm of efficiency. Execution is important but we need great inputs to yield even better outputs. There is a necessity to catch up with the growing demand and fierce competition in the market. That is why we need to leverage insights to provide more value to the customer as value is the key to everything.
+With the constant advancement of technology and innovation, having clear-cut databases and possessing departments to breathe life into interpreting them will set you in the top realm of efficiency. Execution is important but we need great inputs to yield even better outputs. It is necessary to catch up with the growing demand and fierce competition in the market. That is why we need to leverage insights to provide more value to the customer as value is the key to everything.
 
-Our analysis in question will be carried out with Excel, MySQL, and finally Tableau. Excel will serve as the first repository for our data, MySQL will give meaning to our data and Tableau will give a clear face to our data.
+Our analysis will be carried out with Excel, MySQL, and Tableau. Excel will serve as the first repository for our data, MySQL will give meaning to our data and Tableau will give a clear face to our data.
 
 ## With everything that was covered, here are our conclusions and future recommendations for the success of our Superstore:
 
@@ -13,7 +13,7 @@ Our analysis in question will be carried out with Excel, MySQL, and finally Tabl
    
 * Our most profitable quarter all year round was Q4. To maximize even more profits, we must make sure to have enough stock and push our marketing and customer service to make the most out of the October — December festive period.
 
-* The most performing regions are the West then the East, South, and Central regions in that order. The Central region brings in at least $100,000 more in sales than the South region but still makes less profit than it. There is work to be done in the Central region if we really want to keep that market. However, I believe it is better to take some of the resources in our Central region instead our West region stores as we are more profitable there and could really establish ourselves as the kingpin in that region.
+* The most performing regions are the West then the East, South, and Central regions in that order. The Central region brings in at least $100,000 more in sales than the South region but still makes less profit than it. There is work to be done in the Central region if we really want to keep that market. However, I believe it is better to take some of the resources in our Central region instead of our West region stores as we are more profitable there and could really establish ourselves as the kingpin in that region.
   
 * California, New York, and Washington are our most profitable markets and most present ones especially in terms of sales as states. We have to focus more on them. Our least profitable markets are Texas, Ohio, and Pennsylvania. I believe that we should decrease our presence there or even put a halt at our store locations there as sales in Texas and Pennsylvania are in the $100,000s but are unable to convert to profits.
   
@@ -23,7 +23,7 @@ Our analysis in question will be carried out with Excel, MySQL, and finally Tabl
   
 * Still under categories but regionally, Office supplies in the West bring the most profit so we must increase the cap of those materials over there. Same thing with the East and office supplies and both the East and West with Technology. However, furniture in the Central region is the only category that doesn’t convert to profits so it would be better to take some of these resources to the West region which is the biggest gainer in terms of Furniture.
   
-* Statewise, Technology, and Office supplies bring us the most profit in the state of New York and California. We have to increase the availability of these goods in these states for better profits. However, Office supplies in Texas, Technology in Ohio and Furniture in Texas, and Illinois are our biggest losses so we have to drastically reduce these types of products in those areas.
+* Statewise, Technology, and Office supplies bring us the most profit in the state of New York and California. We have to increase the availability of these goods in these states for better profits. However, Office supplies in Texas, Technology in Ohio, and Furniture in Texas, and Illinois are our biggest losses so we have to drastically reduce these types of products in those areas.
   
 * Out of our 17 subcategories nationwide, our biggest profits come from Copiers, Phones, Accessories, and Paper. The profits and profit margins on Copiers and Papers especially are interesting in the long run. We should immediately push these products as we have a great market share with these items. Our losses came from Tables, Bookcases, and Supplies which we are incapable of breaking even. We must spend less time and money with them. Especially with tables because compared to our only 3 losses, Tables lost us $17725 which is huge compared to our other losses of $3472 and $1188 which came from Bookcases and Supplies respectively.
   
@@ -35,7 +35,7 @@ Our analysis in question will be carried out with Excel, MySQL, and finally Tabl
   
 * Out of the 3 segments, The consumer segment brings in the most profit followed by the Corporate and then the Home office. We must give more importance to the consumer segment even if all the 3 are profitable.
   
-* Finally, for our clientele, we have 793 customers total, and we have the most customers in California, New York, and Texas. The case of Texas is pretty ironic since it is also the state that losses us the most money. So we must take a critical decision about Texas first as we absolutely can’t break through now. California and New York are pretty obvious, we have to be outstanding and be the best of what there is to offer in our respective niche.
+* Finally, for our clientele, we have 793 customers total and the most customers in California, New York, and Texas. The case of Texas is pretty ironic since it is also the state that losses us the most money. So we must take a critical decision about Texas first as we absolutely can’t break through now. California and New York are pretty obvious, we have to be outstanding and be the best of what there is to offer in our respective niche.
 --------
 
   ### Author: Lakshmi Kant
