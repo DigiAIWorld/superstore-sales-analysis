@@ -7,9 +7,7 @@ With the constant advancement of technology and innovation, having clear-cut dat
 
 Our analysis will be carried out with Excel, MySQL, and Tableau. Excel will serve as the first repository for our data, MySQL will give meaning to our data and Tableau will give a clear face to our data.
 
-* View Dashboard: 
-
-### View Dashboard, Click here: <a href="[https://app.powerbi.com/view?r=eyJrIjoiZDJjYTM2MGUtMDg1ZC00NjE4LWJlZjgtZDU3OTNhZmNmMWIwIiwidCI6IjFkMjlkNzM5LTIzY2YtNDMwMS1hNTZlLTU1YzA0ZDg1NGQxOSJ9](https://public.tableau.com/views/SuperstoreSalesAnalysis_17323912514090/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">Superstore Sales Analysis</a>
+### View Dashboard, Click here: <a href="https://public.tableau.com/views/SuperstoreSalesAnalysis_17323912514090/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Superstore Sales Analysis</a>
 
 ## With everything that was covered, here are our conclusions and future recommendations for the success of our Superstore:
 
