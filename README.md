@@ -5,7 +5,7 @@ Identifying the patterns in our products, regions, categories, and customer segm
 
 With the constant advancement of technology and innovation, having clear-cut databases and possessing departments to breathe life into interpreting them will set you in the top realm of efficiency. Execution is important but we need great inputs to yield even better outputs. It is necessary to catch up with the growing demand and fierce competition in the market. That is why we need to leverage insights to provide more value to the customer as value is the key to everything.
 
-Our analysis will be carried out with Excel, MySQL, and Tableau. Excel will serve as the first repository for our data, MySQL will give meaning to our data and Tableau will give a clear face to our data.
+Our analysis will be carried out using Excel, MySQL, and Tableau. Excel will serve as the first repository for our data, MySQL will give meaning to our data and Tableau will give a clear face to our data.
 
 ### View Dashboard, Click here: <a href="https://public.tableau.com/views/SuperstoreSalesAnalysis_17323912514090/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Superstore Sales Analysis</a>
 
