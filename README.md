@@ -42,6 +42,6 @@ Our analysis will be carried out using Excel, MySQL, and Tableau. Excel will ser
 
   ### Author: Lakshmi Kant
 * Linkedin: https://www.linkedin.com/in/kant-ai/
-* Portfolio Website: https://genrix.netlify.app/
+* Portfolio: https://kantrixai.netlify.app/
 
 
